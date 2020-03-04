@@ -1,4 +1,3 @@
-import sun.security.jgss.spnego.SpNegoContext;
 
 /*
  * @lc app=leetcode.cn id=283 lang=java
